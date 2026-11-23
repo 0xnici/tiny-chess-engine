@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/0xnici/tiny-chess-engine/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/0xnici/tiny-chess-engine/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A complete chess engine in 4,067 bytes of Python: 0x88 board, iterative-deepening alpha-beta (PVS) with quiescence, a transposition table, check extensions, and a tapered material + piece-square evaluation. Deterministic — a fixed node budget (90k), never a clock.
+A complete chess engine in 4,086 bytes of Python: 0x88 board, iterative-deepening alpha-beta (PVS) with quiescence, a transposition table, check extensions, and a tapered material + piece-square evaluation. Deterministic — a fixed node budget (90k), never a clock. On the kit's three practice instances it scores Elo 2112 / 1654 / 1545 (mean 1770), up from 1364 / 1279 / 1545 for the previous 45k/30k/18k build.
 
 ## Run it
 
